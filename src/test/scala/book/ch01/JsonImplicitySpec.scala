@@ -2,8 +2,6 @@ package book.ch01
 
 import org.scalatest.{FlatSpec, Matchers}
 
-import JsonWriterInstances._
-
 class JsonImplicitySpec extends FlatSpec with Matchers {
   it should "show implicitly" in {
     val sw = implicitly[JsonWriter[String]]

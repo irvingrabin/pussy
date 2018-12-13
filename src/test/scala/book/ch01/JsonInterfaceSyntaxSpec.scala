@@ -1,8 +1,7 @@
 package book.ch01
 
 import org.scalatest.{FlatSpec, Matchers}
-import JsonWriterInstances._
-import JsonSyntax._
+import JsonWriter._
 
 class JsonInterfaceSyntaxSpec extends FlatSpec with Matchers {
   it should "produce Json from interface objects" in {
