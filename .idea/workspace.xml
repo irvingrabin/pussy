@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39761a5f-a7fd-4ab7-9f03-cc443a7ba1fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/book/ch01/Json.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/book/ch01/Json.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/book/ch01/JsonWriter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/book/ch01/JsonWriter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceObjectsSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceObjectsSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceSyntaxSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceSyntaxSpec.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceObjectsSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -51,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceSyntaxSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#19#60#0" expanded="true" />
               </folding>
@@ -63,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonImplicitySpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="60">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -72,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/book/ch01/Json.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -90,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/book/ch01/JsonWriter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="21" selection-end-line="24" />
+            <state relative-caret-position="67">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -119,20 +123,20 @@
         <option value="$PROJECT_DIR$/src/main/scala/pack01/Adder.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/pack01/AdderSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/book/ch01/Person.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/book/ch01/Json.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceObjectsSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/book/ch01/JsonImplicitySpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/book/ch01/JsonWriterInstances.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/book/ch01/README.md" />
         <option value="$PROJECT_DIR$/src/main/scala/book/ch01/JsonSyntax.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/book/ch01/Json.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceObjectsSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceSyntaxSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/book/ch01/JsonWriter.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="376" />
-    <option name="y" value="23" />
+    <option name="x" value="261" />
+    <option name="y" value="48" />
     <option name="width" value="1104" />
     <option name="height" value="845" />
   </component>
@@ -228,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544735097679" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544737936810" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -322,7 +326,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="376" y="23" width="1104" height="845" extended-state="0" />
+    <frame x="261" y="48" width="1104" height="845" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -330,12 +334,12 @@
       <window_info id="Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34463277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3323917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" weight="0.32934928" />
       <window_info anchor="bottom" id="Build" weight="0.21273886" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33200532" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.51527226" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -408,34 +412,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceObjectsSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonImplicitySpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/book/ch01/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceSyntaxSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#19#60#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -446,17 +426,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonImplicitySpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/book/ch01/Json.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceObjectsSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch01/JsonInterfaceSyntaxSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#19#60#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/book/ch01/JsonWriter.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="21" selection-end-line="24" />
+        <state relative-caret-position="67">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
