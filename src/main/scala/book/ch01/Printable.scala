@@ -11,6 +11,10 @@ object Printable {
   implicit val stringPrintable: Printable[String] = new Printable[String] {
     def format(s: String): String = s"<$s>"
   }
+  implicit val catPrintable: Printable[Cat] = new Printable[Cat] {
+    override def format( value: Cat ): String =
+      s"${value.name} is a ${value.age} year-old ${value.color} cat"
+  }
   def format[A](value: A)(implicit pf: Printable[A]): String = pf.format(value)
   def print[A](value: A)(implicit pf: Printable[A]): Unit = { println(pf.format(value)) }
 
