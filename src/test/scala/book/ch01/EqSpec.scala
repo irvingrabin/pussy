@@ -21,7 +21,9 @@ class EqSpec extends FunSpec with Matchers {
       cat3 =!= cat1 shouldBe true
       cat3 =!= cat2 shouldBe true
       cat3 =!= cat3 shouldBe false
-    }
 
+      Option(cat1) =!= Option(cat2) shouldBe false
+      Option(cat1) =!= Option.empty[Cat] shouldBe true
+    }
   }
 }

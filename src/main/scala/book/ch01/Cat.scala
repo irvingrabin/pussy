@@ -19,4 +19,11 @@ object Cat {
         (cat1.color.toLowerCase === cat2.color.toLowerCase)
     }
   }
+  implicit val catOptionEqual: Eq[Option[Cat]] = Eq.instance[Option[Cat]] { (cat1, cat2) =>
+    (cat1, cat2) match {
+      case (None, None)                      => true
+      case (Some(_), None) | (None, Some(_)) => false
+      case (Some(a), Some(b))                => a === b
+    }
+  }
 }
