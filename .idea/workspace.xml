@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39761a5f-a7fd-4ab7-9f03-cc443a7ba1fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/scala/book/ch02/SuperAdderSpec.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/book/ch02/BooleanMonoids.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/book/ch02/BooleanMonoids.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/book/ch02/Monoid.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/book/ch02/ChapMonoid.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/book/ch02/Semigroup.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/book/ch02/ChapSemigroup.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/book/ch02/SetSemigroups.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/book/ch02/SetSemigroups.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -92,7 +87,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch02/SuperAdderSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
+            <state relative-caret-position="241">
               <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
               <folding>
                 <element signature="e#19#59#0" expanded="true" />
@@ -180,9 +175,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="247" />
+    <option name="x" value="421" />
     <option name="y" value="26" />
-    <option name="width" value="1464" />
+    <option name="width" value="1290" />
     <option name="height" value="845" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -277,7 +272,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544891095176" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544897008789" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -371,20 +366,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="247" y="26" width="1464" height="845" extended-state="0" />
-    <editor active="true" />
+    <frame x="421" y="26" width="1290" height="845" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28199717" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3213141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" weight="0.32934928" />
       <window_info anchor="bottom" id="Build" weight="0.21273886" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.4116866" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4116866" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -664,7 +658,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/book/ch02/SuperAdderSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
+        <state relative-caret-position="241">
           <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
           <folding>
             <element signature="e#19#59#0" expanded="true" />
