@@ -1,5 +1,7 @@
 package book.ch02
 
+import cats.Monoid
+
 object BooleanMonoids {
   implicit val booleanAndMonoid: Monoid[Boolean] = new Monoid[Boolean] {
     def combine(a: Boolean, b: Boolean): Boolean = a && b
