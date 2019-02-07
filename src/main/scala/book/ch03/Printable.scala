@@ -7,4 +7,8 @@ trait Printable[A] { self =>
 
 object Printable {
   def format[A](value: A)(implicit p: Printable[A]): String = p.format(value)
+
+  implicit val stringPrintable: Printable[String] = v => v
+  implicit val booleanPrintable: Printable[Boolean] = v => if (v) "true" else "false"
+  implicit val integerPrintable: Printable[Int] = v => v.toString
 }
